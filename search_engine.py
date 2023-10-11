@@ -2,7 +2,6 @@ import json
 import random
 import requests
 import configparser
-from selenium import webdriver
 import bing
 from tools import read_txt, write_txt
 

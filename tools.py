@@ -1,7 +1,6 @@
 import os
 import pandas
 import requests
-from datetime import datetime
 from lxml import etree
 
 def read_txt(path):
